@@ -2,6 +2,9 @@ Shopping List:
 - bread
 - milk
 - dark chocolate
-- bananas
+-
 - eggs
 - beacon
+
+potato
+meat
