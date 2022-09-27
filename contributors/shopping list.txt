@@ -13,7 +13,8 @@ Shopping List2:
 
 
 - Gruyère
-
+- chorizo
+- cheddar
 
 - pear
 
