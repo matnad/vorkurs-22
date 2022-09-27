@@ -10,4 +10,14 @@ Shopping List2:
 - ham
 - pinapple
 
+
+
+
+
+
 - pear
+
+
+
+- oranges
+- leek
