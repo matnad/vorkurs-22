@@ -3,6 +3,11 @@ Shopping List2:
 - bread
 - milk
 - dark chocolate
+- eggs
+- beacon
+
+potato
+meat
 - white chocolate
 - bananas
 - eggs
@@ -17,3 +22,4 @@ Shopping List2:
 - oranges
 - leek
 - potatoes (3)
+
