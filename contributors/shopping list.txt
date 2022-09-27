@@ -1,10 +1,24 @@
-Shopping List:
+Shopping List2:
+- Salad
 - bread
 - milk
 - dark chocolate
--
 - eggs
 - beacon
 
 potato
 meat
+- white chocolate
+- bananas
+- eggs
+- beacon (crispy)
+
+- ham
+- pin
+
+
+- pear
+- oranges
+- leek
+- potatoes (3)
+
