@@ -1,22 +1,13 @@
-Shopping List:
+Shopping List2:
+- Salad
 - bread
 - milk
 - dark chocolate
 - bananas
 - eggs
-- beacon
-
+- beacon (crispy)
 
 - ham
-- syrup
 - pinapple
 
-
-
-
-
-
-- apple
-
-
-
+- pear
