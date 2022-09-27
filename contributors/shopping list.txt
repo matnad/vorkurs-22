@@ -3,16 +3,13 @@ Shopping List2:
 - bread
 - milk
 - dark chocolate
+- white chocolate
 - bananas
 - eggs
 - beacon (crispy)
 
 - ham
-- pinapple
-
-
-
-
+- pin
 
 
 - pear
@@ -21,3 +18,4 @@ Shopping List2:
 
 - oranges
 - leek
+- potatoes (3)
